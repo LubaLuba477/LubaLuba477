@@ -8,7 +8,7 @@ I am a junior software developer currently working in a vending machine internsh
 - **[Poker EV Tool](https://github.com/LubaLuba477/poker)**: A poker evaluation tool with graphical user interface.
 
 ## Skills
-- **Languages**: Python, C, C++, SQL, 
+- **Languages**: Python, C, C++, SQL
 - **Frameworks**: Qt, QML
 - **Tools**: 
   - GIT
