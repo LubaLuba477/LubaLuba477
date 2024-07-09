@@ -25,7 +25,7 @@ I am a junior software developer currently working in a vending machine internsh
 
 ## Get in Touch
 - **Email**: [balheg@gmail.com](mailto:youremail@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/balazshegedus90)
 
 
 
